@@ -2,17 +2,21 @@ import React from "react";
 import GooglePlay from "../assets/fi_16076057.png";
 import appStore from "../assets/fi_5977575.png";
 import hero from "../assets/hero.png";
-import { useLoaderData } from "react-router";
+import { Link } from "react-router";
+import HomeApps from "../Components/HomeApps";
+import useApps from "../Hooks/useApps";
 
 const Home = () => {
-  const data = useLoaderData();
-  console.log(data);
+  const allData = useApps();
+  const { apps, loading, error } = allData;
+  const featuredData = apps.slice(0, 8);
+
   return (
     <div className="bg-[#62738210]">
       {/* Header Section */}
       <div>
         <div className="text-center">
-          <h1 className="text-[48px] font-bold text-[#182f45]">
+          <h1 className="text-[48px] font-bold text-[#182f45] md:pt-20">
             We Build <br />
             <span className="text-[#632ee3]">Productive</span> Apps
           </h1>
@@ -66,6 +70,22 @@ const Home = () => {
       </div>
 
       {/* Cards Section */}
+      <div className="my-12 text-center">
+        <h1 className="text-[48px] font-bold text-[#182f45]">Trending Apps</h1>
+        <p className="text-[#627382]">
+          Explore All Trending Apps on the Market developed by us
+        </p>
+      </div>
+      <div className="text-center grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-1">
+        {featuredData.map((data) => (
+          <HomeApps data={data}></HomeApps>
+        ))}
+      </div>
+      <Link to="/apps">
+        <div className="w-[150px] mx-auto text-center font-semibold py-2 px-2 rounded-md text-white bg-linear-to-r from-[#632ee3] to-[#9f62f2] mt-8">
+          <h1>Show All</h1>
+        </div>
+      </Link>
     </div>
   );
 };

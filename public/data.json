@@ -1,6 +1,6 @@
 [
     {
-      "image": "https://i.ibb.co/albumArt1.png",
+      "image": "https://i.ibb.co.com/SDWRtSvZ/e632982bae5808525ce4e321a3ad6a5e.jpg",
       "title": "Pixel Camera",
       "companyName": "Vision Labs",
       "id": 1,
@@ -8,7 +8,7 @@
       "size": 48,
       "reviews": 1200,
       "ratingAvg": 4.5,
-      "downloads": 500000,
+      "downloads": "50k",
       "ratings": [
         { "name": "1 star", "count": 50 },
         { "name": "2 star", "count": 70 },
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/game1.png",
+      "image": "https://i.ibb.co.com/4wXS73LQ/demo-app-2.webp",
       "title": "Galaxy Shooter",
       "companyName": "StarPlay Studios",
       "id": 2,
@@ -26,7 +26,7 @@
       "size": 92,
       "reviews": 870,
       "ratingAvg": 4.1,
-      "downloads": 320000,
+      "downloads": "3M",
       "ratings": [
         { "name": "1 star", "count": 80 },
         { "name": "2 star", "count": 60 },
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/music-app.png",
+      "image": "https://i.ibb.co.com/n8mRM82B/beat-Box-Music.jpg",
       "title": "BeatBox Music",
       "companyName": "WaveSound LLC",
       "id": 3,
@@ -44,7 +44,7 @@
       "size": 65,
       "reviews": 5600,
       "ratingAvg": 4.7,
-      "downloads": 1200000,
+      "downloads": "12M",
       "ratings": [
         { "name": "1 star", "count": 200 },
         { "name": "2 star", "count": 300 },
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/reader.png",
+      "image": "https://i.ibb.co.com/fBYdbWf/light-Reader.jpg",
       "title": "LightReader",
       "companyName": "SoftTech",
       "id": 4,
@@ -62,7 +62,7 @@
       "size": 24,
       "reviews": 2100,
       "ratingAvg": 4.6,
-      "downloads": 760000,
+      "downloads": "7M",
       "ratings": [
         { "name": "1 star", "count": 50 },
         { "name": "2 star", "count": 80 },
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/weather.png",
+      "image": "https://i.ibb.co.com/rG58GnV3/forcast.jpg",
       "title": "Sky Forecast",
       "companyName": "Weather Pro",
       "id": 5,
@@ -80,7 +80,7 @@
       "size": 39,
       "reviews": 1450,
       "ratingAvg": 4.4,
-      "downloads": 510000,
+      "downloads": "5M",
       "ratings": [
         { "name": "1 star", "count": 60 },
         { "name": "2 star", "count": 100 },
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/fitness.png",
+      "image": "https://i.ibb.co.com/gZ7GJdjz/Fit-Track-PRO.jpg",
       "title": "FitTrack Pro",
       "companyName": "BodyBuild Inc.",
       "id": 6,
@@ -98,7 +98,7 @@
       "size": 58,
       "reviews": 3900,
       "ratingAvg": 4.8,
-      "downloads": 980000,
+      "downloads": "9M",
       "ratings": [
         { "name": "1 star", "count": 90 },
         { "name": "2 star", "count": 110 },
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/security.png",
+      "image": "https://i.ibb.co.com/0pXQ1vny/VPN.jpg",
       "title": "GuardVPN",
       "companyName": "CyberSafe",
       "id": 7,
@@ -116,7 +116,7 @@
       "size": 41,
       "reviews": 800,
       "ratingAvg": 4.2,
-      "downloads": 410000,
+      "downloads": "4M",
       "ratings": [
         { "name": "1 star", "count": 40 },
         { "name": "2 star", "count": 80 },
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/photo-editor.png",
+      "image": "https://i.ibb.co.com/s93NGnNS/snap-Edit.jpg",
       "title": "SnapEdit",
       "companyName": "EditPro",
       "id": 8,
@@ -134,7 +134,7 @@
       "size": 76,
       "reviews": 3500,
       "ratingAvg": 4.5,
-      "downloads": 870000,
+      "downloads": "8.7M",
       "ratings": [
         { "name": "1 star", "count": 120 },
         { "name": "2 star", "count": 150 },
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/language.png",
+      "image": "https://i.ibb.co.com/Rpfd2kV2/Lingu-Ran.jpg",
       "title": "LinguaLearn",
       "companyName": "SkillWorld",
       "id": 9,
@@ -152,7 +152,7 @@
       "size": 52,
       "reviews": 920,
       "ratingAvg": 4.3,
-      "downloads": 350000,
+      "downloads": "3.5M",
       "ratings": [
         { "name": "1 star", "count": 50 },
         { "name": "2 star", "count": 80 },
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/notes.png",
+      "image": "https://i.ibb.co.com/zhJj0Kfh/Quick-Notes.jpg",
       "title": "QuickNotes",
       "companyName": "ToolsPro",
       "id": 10,
@@ -170,7 +170,7 @@
       "size": 18,
       "reviews": 1400,
       "ratingAvg": 4.6,
-      "downloads": 660000,
+      "downloads": "6M",
       "ratings": [
         { "name": "1 star", "count": 20 },
         { "name": "2 star", "count": 50 },
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/maps.png",
+      "image": "https://i.ibb.co.com/gLQSG4zv/Maps.jpg",
       "title": "EasyMaps",
       "companyName": "GeoTech",
       "id": 11,
@@ -188,7 +188,7 @@
       "size": 85,
       "reviews": 2200,
       "ratingAvg": 4.3,
-      "downloads": 540000,
+      "downloads": "5.4M",
       "ratings": [
         { "name": "1 star", "count": 80 },
         { "name": "2 star", "count": 120 },
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/chatapp.png",
+      "image": "https://i.ibb.co.com/zTP56T0x/Chit-Chat.jpg",
       "title": "ChitChat",
       "companyName": "SocialX",
       "id": 12,
@@ -206,7 +206,7 @@
       "size": 45,
       "reviews": 5400,
       "ratingAvg": 4.7,
-      "downloads": 1300000,
+      "downloads": "1.3M",
       "ratings": [
         { "name": "1 star", "count": 200 },
         { "name": "2 star", "count": 350 },
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/wallet.png",
+      "image": "https://i.ibb.co.com/DgpbFd9G/Smart-Wallet.jpg",
       "title": "SmartWallet",
       "companyName": "PayFlex",
       "id": 13,
@@ -224,7 +224,7 @@
       "size": 39,
       "reviews": 2600,
       "ratingAvg": 4.4,
-      "downloads": 900000,
+      "downloads": "9M",
       "ratings": [
         { "name": "1 star", "count": 100 },
         { "name": "2 star", "count": 160 },
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/newsapp.png",
+      "image": "https://i.ibb.co.com/1YctbgBq/Daily-News.jpg",
       "title": "DailyNews",
       "companyName": "NewsByte",
       "id": 14,
@@ -242,7 +242,7 @@
       "size": 33,
       "reviews": 1500,
       "ratingAvg": 4.2,
-      "downloads": 670000,
+      "downloads": "6.7M",
       "ratings": [
         { "name": "1 star", "count": 60 },
         { "name": "2 star", "count": 120 },
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/education.png",
+      "image": "https://i.ibb.co.com/cSrwrZtG/Edu-Master.jpg",
       "title": "EduMaster",
       "companyName": "LearnPro",
       "id": 15,
@@ -260,7 +260,7 @@
       "size": 50,
       "reviews": 3400,
       "ratingAvg": 4.6,
-      "downloads": 830000,
+      "downloads": "8.3M",
       "ratings": [
         { "name": "1 star", "count": 90 },
         { "name": "2 star", "count": 120 },
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/calendar.png",
+      "image": "https://i.ibb.co.com/vvQ6JRFy/Time-Planner.jpg",
       "title": "TimePlanner",
       "companyName": "PlanIt",
       "id": 16,
@@ -278,7 +278,7 @@
       "size": 27,
       "reviews": 2100,
       "ratingAvg": 4.5,
-      "downloads": 410000,
+      "downloads": "4.1M",
       "ratings": [
         { "name": "1 star", "count": 60 },
         { "name": "2 star", "count": 70 },
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/calculator.png",
+      "image": "https://i.ibb.co.com/2Yhqj8G2/Calculator.jpg",
       "title": "ProCalculator",
       "companyName": "CalcHub",
       "id": 17,
@@ -296,7 +296,7 @@
       "size": 15,
       "reviews": 950,
       "ratingAvg": 4.7,
-      "downloads": 370000,
+      "downloads": "3.7M",
       "ratings": [
         { "name": "1 star", "count": 10 },
         { "name": "2 star", "count": 20 },
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/shopping.png",
+      "image": "https://i.ibb.co.com/d03H8ghR/Shoply.jpg",
       "title": "Shoply",
       "companyName": "EcomLab",
       "id": 18,
@@ -314,7 +314,7 @@
       "size": 72,
       "reviews": 5100,
       "ratingAvg": 4.6,
-      "downloads": 1500000,
+      "downloads": "1.5M",
       "ratings": [
         { "name": "1 star", "count": 200 },
         { "name": "2 star", "count": 300 },
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/gallery.png",
+      "image": "https://i.ibb.co.com/ksrrRqyD/Pic-Gallery.jpg",
       "title": "PicGallery",
       "companyName": "PhotoPro",
       "id": 19,
@@ -332,7 +332,7 @@
       "size": 36,
       "reviews": 1300,
       "ratingAvg": 4.3,
-      "downloads": 520000,
+      "downloads": "5.2M",
       "ratings": [
         { "name": "1 star", "count": 50 },
         { "name": "2 star", "count": 90 },
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/healthcare.png",
+      "image": "https://i.ibb.co.com/q3s3mxrZ/Medi-Care.jpg",
       "title": "MediCare",
       "companyName": "HealthCorp",
       "id": 20,
@@ -350,7 +350,7 @@
       "size": 61,
       "reviews": 2400,
       "ratingAvg": 4.5,
-      "downloads": 780000,
+      "downloads": "7.8M",
       "ratings": [
         { "name": "1 star", "count": 70 },
         { "name": "2 star", "count": 90 },
