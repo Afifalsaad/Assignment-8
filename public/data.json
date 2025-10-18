@@ -1,0 +1,363 @@
+[
+    {
+      "image": "https://i.ibb.co/albumArt1.png",
+      "title": "Pixel Camera",
+      "companyName": "Vision Labs",
+      "id": 1,
+      "description": "High-quality AI camera app with filters.",
+      "size": 48,
+      "reviews": 1200,
+      "ratingAvg": 4.5,
+      "downloads": 500000,
+      "ratings": [
+        { "name": "1 star", "count": 50 },
+        { "name": "2 star", "count": 70 },
+        { "name": "3 star", "count": 150 },
+        { "name": "4 star", "count": 300 },
+        { "name": "5 star", "count": 630 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/game1.png",
+      "title": "Galaxy Shooter",
+      "companyName": "StarPlay Studios",
+      "id": 2,
+      "description": "Arcade style galaxy combat game.",
+      "size": 92,
+      "reviews": 870,
+      "ratingAvg": 4.1,
+      "downloads": 320000,
+      "ratings": [
+        { "name": "1 star", "count": 80 },
+        { "name": "2 star", "count": 60 },
+        { "name": "3 star", "count": 120 },
+        { "name": "4 star", "count": 300 },
+        { "name": "5 star", "count": 310 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/music-app.png",
+      "title": "BeatBox Music",
+      "companyName": "WaveSound LLC",
+      "id": 3,
+      "description": "Unlimited music streaming app.",
+      "size": 65,
+      "reviews": 5600,
+      "ratingAvg": 4.7,
+      "downloads": 1200000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 500 },
+        { "name": "4 star", "count": 1500 },
+        { "name": "5 star", "count": 3100 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/reader.png",
+      "title": "LightReader",
+      "companyName": "SoftTech",
+      "id": 4,
+      "description": "Ebook reader with dark mode.",
+      "size": 24,
+      "reviews": 2100,
+      "ratingAvg": 4.6,
+      "downloads": 760000,
+      "ratings": [
+        { "name": "1 star", "count": 50 },
+        { "name": "2 star", "count": 80 },
+        { "name": "3 star", "count": 200 },
+        { "name": "4 star", "count": 600 },
+        { "name": "5 star", "count": 1170 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/weather.png",
+      "title": "Sky Forecast",
+      "companyName": "Weather Pro",
+      "id": 5,
+      "description": "Accurate 7-day weather forecast.",
+      "size": 39,
+      "reviews": 1450,
+      "ratingAvg": 4.4,
+      "downloads": 510000,
+      "ratings": [
+        { "name": "1 star", "count": 60 },
+        { "name": "2 star", "count": 100 },
+        { "name": "3 star", "count": 200 },
+        { "name": "4 star", "count": 450 },
+        { "name": "5 star", "count": 640 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/fitness.png",
+      "title": "FitTrack Pro",
+      "companyName": "BodyBuild Inc.",
+      "id": 6,
+      "description": "Fitness and workout tracking app.",
+      "size": 58,
+      "reviews": 3900,
+      "ratingAvg": 4.8,
+      "downloads": 980000,
+      "ratings": [
+        { "name": "1 star", "count": 90 },
+        { "name": "2 star", "count": 110 },
+        { "name": "3 star", "count": 300 },
+        { "name": "4 star", "count": 900 },
+        { "name": "5 star", "count": 2500 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/security.png",
+      "title": "GuardVPN",
+      "companyName": "CyberSafe",
+      "id": 7,
+      "description": "Fast and secure VPN service.",
+      "size": 41,
+      "reviews": 800,
+      "ratingAvg": 4.2,
+      "downloads": 410000,
+      "ratings": [
+        { "name": "1 star", "count": 40 },
+        { "name": "2 star", "count": 80 },
+        { "name": "3 star", "count": 150 },
+        { "name": "4 star", "count": 250 },
+        { "name": "5 star", "count": 280 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/photo-editor.png",
+      "title": "SnapEdit",
+      "companyName": "EditPro",
+      "id": 8,
+      "description": "Photo editing with AI tools.",
+      "size": 76,
+      "reviews": 3500,
+      "ratingAvg": 4.5,
+      "downloads": 870000,
+      "ratings": [
+        { "name": "1 star", "count": 120 },
+        { "name": "2 star", "count": 150 },
+        { "name": "3 star", "count": 300 },
+        { "name": "4 star", "count": 1000 },
+        { "name": "5 star", "count": 1900 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/language.png",
+      "title": "LinguaLearn",
+      "companyName": "SkillWorld",
+      "id": 9,
+      "description": "Learn languages with fun lessons.",
+      "size": 52,
+      "reviews": 920,
+      "ratingAvg": 4.3,
+      "downloads": 350000,
+      "ratings": [
+        { "name": "1 star", "count": 50 },
+        { "name": "2 star", "count": 80 },
+        { "name": "3 star", "count": 210 },
+        { "name": "4 star", "count": 300 },
+        { "name": "5 star", "count": 280 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/notes.png",
+      "title": "QuickNotes",
+      "companyName": "ToolsPro",
+      "id": 10,
+      "description": "Minimal note-taking app.",
+      "size": 18,
+      "reviews": 1400,
+      "ratingAvg": 4.6,
+      "downloads": 660000,
+      "ratings": [
+        { "name": "1 star", "count": 20 },
+        { "name": "2 star", "count": 50 },
+        { "name": "3 star", "count": 200 },
+        { "name": "4 star", "count": 450 },
+        { "name": "5 star", "count": 680 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/maps.png",
+      "title": "EasyMaps",
+      "companyName": "GeoTech",
+      "id": 11,
+      "description": "Offline map navigation app.",
+      "size": 85,
+      "reviews": 2200,
+      "ratingAvg": 4.3,
+      "downloads": 540000,
+      "ratings": [
+        { "name": "1 star", "count": 80 },
+        { "name": "2 star", "count": 120 },
+        { "name": "3 star", "count": 300 },
+        { "name": "4 star", "count": 900 },
+        { "name": "5 star", "count": 800 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/chatapp.png",
+      "title": "ChitChat",
+      "companyName": "SocialX",
+      "id": 12,
+      "description": "Secure fast messaging app.",
+      "size": 45,
+      "reviews": 5400,
+      "ratingAvg": 4.7,
+      "downloads": 1300000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 350 },
+        { "name": "3 star", "count": 500 },
+        { "name": "4 star", "count": 1400 },
+        { "name": "5 star", "count": 2950 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/wallet.png",
+      "title": "SmartWallet",
+      "companyName": "PayFlex",
+      "id": 13,
+      "description": "Online payment and wallet app.",
+      "size": 39,
+      "reviews": 2600,
+      "ratingAvg": 4.4,
+      "downloads": 900000,
+      "ratings": [
+        { "name": "1 star", "count": 100 },
+        { "name": "2 star", "count": 160 },
+        { "name": "3 star", "count": 330 },
+        { "name": "4 star", "count": 800 },
+        { "name": "5 star", "count": 1210 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/newsapp.png",
+      "title": "DailyNews",
+      "companyName": "NewsByte",
+      "id": 14,
+      "description": "World news from trusted sources.",
+      "size": 33,
+      "reviews": 1500,
+      "ratingAvg": 4.2,
+      "downloads": 670000,
+      "ratings": [
+        { "name": "1 star", "count": 60 },
+        { "name": "2 star", "count": 120 },
+        { "name": "3 star", "count": 300 },
+        { "name": "4 star", "count": 500 },
+        { "name": "5 star", "count": 520 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/education.png",
+      "title": "EduMaster",
+      "companyName": "LearnPro",
+      "id": 15,
+      "description": "Online courses and tutorials app.",
+      "size": 50,
+      "reviews": 3400,
+      "ratingAvg": 4.6,
+      "downloads": 830000,
+      "ratings": [
+        { "name": "1 star", "count": 90 },
+        { "name": "2 star", "count": 120 },
+        { "name": "3 star", "count": 230 },
+        { "name": "4 star", "count": 900 },
+        { "name": "5 star", "count": 2060 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/calendar.png",
+      "title": "TimePlanner",
+      "companyName": "PlanIt",
+      "id": 16,
+      "description": "Smart scheduling and reminders.",
+      "size": 27,
+      "reviews": 2100,
+      "ratingAvg": 4.5,
+      "downloads": 410000,
+      "ratings": [
+        { "name": "1 star", "count": 60 },
+        { "name": "2 star", "count": 70 },
+        { "name": "3 star", "count": 200 },
+        { "name": "4 star", "count": 800 },
+        { "name": "5 star", "count": 970 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/calculator.png",
+      "title": "ProCalculator",
+      "companyName": "CalcHub",
+      "id": 17,
+      "description": "Advanced scientific calculator.",
+      "size": 15,
+      "reviews": 950,
+      "ratingAvg": 4.7,
+      "downloads": 370000,
+      "ratings": [
+        { "name": "1 star", "count": 10 },
+        { "name": "2 star", "count": 20 },
+        { "name": "3 star", "count": 90 },
+        { "name": "4 star", "count": 300 },
+        { "name": "5 star", "count": 530 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/shopping.png",
+      "title": "Shoply",
+      "companyName": "EcomLab",
+      "id": 18,
+      "description": "Online shopping with fast delivery.",
+      "size": 72,
+      "reviews": 5100,
+      "ratingAvg": 4.6,
+      "downloads": 1500000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 500 },
+        { "name": "4 star", "count": 1200 },
+        { "name": "5 star", "count": 2900 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/gallery.png",
+      "title": "PicGallery",
+      "companyName": "PhotoPro",
+      "id": 19,
+      "description": "Gallery app with cloud sync.",
+      "size": 36,
+      "reviews": 1300,
+      "ratingAvg": 4.3,
+      "downloads": 520000,
+      "ratings": [
+        { "name": "1 star", "count": 50 },
+        { "name": "2 star", "count": 90 },
+        { "name": "3 star", "count": 250 },
+        { "name": "4 star", "count": 420 },
+        { "name": "5 star", "count": 490 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/healthcare.png",
+      "title": "MediCare",
+      "companyName": "HealthCorp",
+      "id": 20,
+      "description": "Online doctor consultation app.",
+      "size": 61,
+      "reviews": 2400,
+      "ratingAvg": 4.5,
+      "downloads": 780000,
+      "ratings": [
+        { "name": "1 star", "count": 70 },
+        { "name": "2 star", "count": 90 },
+        { "name": "3 star", "count": 300 },
+        { "name": "4 star", "count": 900 },
+        { "name": "5 star", "count": 1040 }
+      ]
+    }
+  ]
+  
