@@ -27,14 +27,21 @@ const Home = () => {
           </p>
         </div>
         <div className="flex gap-6.5 items-center justify-center my-4">
+          <Link to='https://play.google.com/store/games?hl=en'>
           <div className="flex gap-1.5 items-center border-1 border-[#d1d1d1] py-2 px-4 rounded-md font-semibold">
+            
             <img src={GooglePlay} alt="" />
+            
             <h2>Google Play</h2>
+            
           </div>
+          </Link>
+          <Link to='https://www.apple.com/app-store/'>
           <div className="flex gap-1.5 items-center border-1 border-[#d1d1d1] py-2 px-4 rounded-md font-semibold">
             <img src={appStore} alt="" />
             <h2>App Store</h2>
           </div>
+          </Link>
         </div>
       </div>
 

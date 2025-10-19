@@ -1,363 +1,362 @@
 [
-    {
-      "image": "https://i.ibb.co.com/SDWRtSvZ/e632982bae5808525ce4e321a3ad6a5e.jpg",
-      "title": "Pixel Camera",
-      "companyName": "Vision Labs",
-      "id": 1,
-      "description": "High-quality AI camera app with filters.",
-      "size": 48,
-      "reviews": 1200,
-      "ratingAvg": 4.5,
-      "downloads": 5,
-      "ratings": [
-        { "name": "1 star", "count": 50 },
-        { "name": "2 star", "count": 70 },
-        { "name": "3 star", "count": 150 },
-        { "name": "4 star", "count": 300 },
-        { "name": "5 star", "count": 630 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/4wXS73LQ/demo-app-2.webp",
-      "title": "Galaxy Shooter",
-      "companyName": "StarPlay Studios",
-      "id": 2,
-      "description": "Arcade style galaxy combat game.",
-      "size": 92,
-      "reviews": 870,
-      "ratingAvg": 4.1,
-      "downloads": 3,
-      "ratings": [
-        { "name": "1 star", "count": 80 },
-        { "name": "2 star", "count": 60 },
-        { "name": "3 star", "count": 120 },
-        { "name": "4 star", "count": 300 },
-        { "name": "5 star", "count": 310 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/n8mRM82B/beat-Box-Music.jpg",
-      "title": "BeatBox Music",
-      "companyName": "WaveSound LLC",
-      "id": 3,
-      "description": "Unlimited music streaming app.",
-      "size": 65,
-      "reviews": 5600,
-      "ratingAvg": 4.7,
-      "downloads": 12,
-      "ratings": [
-        { "name": "1 star", "count": 200 },
-        { "name": "2 star", "count": 300 },
-        { "name": "3 star", "count": 500 },
-        { "name": "4 star", "count": 1500 },
-        { "name": "5 star", "count": 3100 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/fBYdbWf/light-Reader.jpg",
-      "title": "LightReader",
-      "companyName": "SoftTech",
-      "id": 4,
-      "description": "Ebook reader with dark mode.",
-      "size": 24,
-      "reviews": 2100,
-      "ratingAvg": 4.6,
-      "downloads": 7,
-      "ratings": [
-        { "name": "1 star", "count": 50 },
-        { "name": "2 star", "count": 80 },
-        { "name": "3 star", "count": 200 },
-        { "name": "4 star", "count": 600 },
-        { "name": "5 star", "count": 1170 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/rG58GnV3/forcast.jpg",
-      "title": "Sky Forecast",
-      "companyName": "Weather Pro",
-      "id": 5,
-      "description": "Accurate 7-day weather forecast.",
-      "size": 39,
-      "reviews": 1450,
-      "ratingAvg": 4.4,
-      "downloads": 5,
-      "ratings": [
-        { "name": "1 star", "count": 60 },
-        { "name": "2 star", "count": 100 },
-        { "name": "3 star", "count": 200 },
-        { "name": "4 star", "count": 450 },
-        { "name": "5 star", "count": 640 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/gZ7GJdjz/Fit-Track-PRO.jpg",
-      "title": "FitTrack Pro",
-      "companyName": "BodyBuild Inc.",
-      "id": 6,
-      "description": "Fitness and workout tracking app.",
-      "size": 58,
-      "reviews": 3900,
-      "ratingAvg": 4.8,
-      "downloads": 9,
-      "ratings": [
-        { "name": "1 star", "count": 90 },
-        { "name": "2 star", "count": 110 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 900 },
-        { "name": "5 star", "count": 2500 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/0pXQ1vny/VPN.jpg",
-      "title": "GuardVPN",
-      "companyName": "CyberSafe",
-      "id": 7,
-      "description": "Fast and secure VPN service.",
-      "size": 41,
-      "reviews": 800,
-      "ratingAvg": 4.2,
-      "downloads": 4,
-      "ratings": [
-        { "name": "1 star", "count": 40 },
-        { "name": "2 star", "count": 80 },
-        { "name": "3 star", "count": 150 },
-        { "name": "4 star", "count": 250 },
-        { "name": "5 star", "count": 280 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/s93NGnNS/snap-Edit.jpg",
-      "title": "SnapEdit",
-      "companyName": "EditPro",
-      "id": 8,
-      "description": "Photo editing with AI tools.",
-      "size": 76,
-      "reviews": 3500,
-      "ratingAvg": 4.5,
-      "downloads": 8,
-      "ratings": [
-        { "name": "1 star", "count": 120 },
-        { "name": "2 star", "count": 150 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 1000 },
-        { "name": "5 star", "count": 1900 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/Rpfd2kV2/Lingu-Ran.jpg",
-      "title": "LinguaLearn",
-      "companyName": "SkillWorld",
-      "id": 9,
-      "description": "Learn languages with fun lessons.",
-      "size": 52,
-      "reviews": 920,
-      "ratingAvg": 4.3,
-      "downloads": 3.5,
-      "ratings": [
-        { "name": "1 star", "count": 50 },
-        { "name": "2 star", "count": 80 },
-        { "name": "3 star", "count": 210 },
-        { "name": "4 star", "count": 300 },
-        { "name": "5 star", "count": 280 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/zhJj0Kfh/Quick-Notes.jpg",
-      "title": "QuickNotes",
-      "companyName": "ToolsPro",
-      "id": 10,
-      "description": "Minimal note-taking app.",
-      "size": 18,
-      "reviews": 1400,
-      "ratingAvg": 4.6,
-      "downloads": 6,
-      "ratings": [
-        { "name": "1 star", "count": 20 },
-        { "name": "2 star", "count": 50 },
-        { "name": "3 star", "count": 200 },
-        { "name": "4 star", "count": 450 },
-        { "name": "5 star", "count": 680 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/gLQSG4zv/Maps.jpg",
-      "title": "EasyMaps",
-      "companyName": "GeoTech",
-      "id": 11,
-      "description": "Offline map navigation app.",
-      "size": 85,
-      "reviews": 2200,
-      "ratingAvg": 4.3,
-      "downloads": 5.4,
-      "ratings": [
-        { "name": "1 star", "count": 80 },
-        { "name": "2 star", "count": 120 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 900 },
-        { "name": "5 star", "count": 800 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/zTP56T0x/Chit-Chat.jpg",
-      "title": "ChitChat",
-      "companyName": "SocialX",
-      "id": 12,
-      "description": "Secure fast messaging app.",
-      "size": 45,
-      "reviews": 5400,
-      "ratingAvg": 4.7,
-      "downloads": 1.3,
-      "ratings": [
-        { "name": "1 star", "count": 200 },
-        { "name": "2 star", "count": 350 },
-        { "name": "3 star", "count": 500 },
-        { "name": "4 star", "count": 1400 },
-        { "name": "5 star", "count": 2950 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/DgpbFd9G/Smart-Wallet.jpg",
-      "title": "SmartWallet",
-      "companyName": "PayFlex",
-      "id": 13,
-      "description": "Online payment and wallet app.",
-      "size": 39,
-      "reviews": 2600,
-      "ratingAvg": 4.4,
-      "downloads": 9,
-      "ratings": [
-        { "name": "1 star", "count": 100 },
-        { "name": "2 star", "count": 160 },
-        { "name": "3 star", "count": 330 },
-        { "name": "4 star", "count": 800 },
-        { "name": "5 star", "count": 1210 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/1YctbgBq/Daily-News.jpg",
-      "title": "DailyNews",
-      "companyName": "NewsByte",
-      "id": 14,
-      "description": "World news from trusted sources.",
-      "size": 33,
-      "reviews": 1500,
-      "ratingAvg": 4.2,
-      "downloads": 6.7,
-      "ratings": [
-        { "name": "1 star", "count": 60 },
-        { "name": "2 star", "count": 120 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 500 },
-        { "name": "5 star", "count": 520 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/cSrwrZtG/Edu-Master.jpg",
-      "title": "EduMaster",
-      "companyName": "LearnPro",
-      "id": 15,
-      "description": "Online courses and tutorials app.",
-      "size": 50,
-      "reviews": 3400,
-      "ratingAvg": 4.6,
-      "downloads": 8.3,
-      "ratings": [
-        { "name": "1 star", "count": 90 },
-        { "name": "2 star", "count": 120 },
-        { "name": "3 star", "count": 230 },
-        { "name": "4 star", "count": 900 },
-        { "name": "5 star", "count": 2060 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/vvQ6JRFy/Time-Planner.jpg",
-      "title": "TimePlanner",
-      "companyName": "PlanIt",
-      "id": 16,
-      "description": "Smart scheduling and reminders.",
-      "size": 27,
-      "reviews": 2100,
-      "ratingAvg": 4.5,
-      "downloads": 4.1,
-      "ratings": [
-        { "name": "1 star", "count": 60 },
-        { "name": "2 star", "count": 70 },
-        { "name": "3 star", "count": 200 },
-        { "name": "4 star", "count": 800 },
-        { "name": "5 star", "count": 970 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/2Yhqj8G2/Calculator.jpg",
-      "title": "ProCalculator",
-      "companyName": "CalcHub",
-      "id": 17,
-      "description": "Advanced scientific calculator.",
-      "size": 15,
-      "reviews": 950,
-      "ratingAvg": 4.7,
-      "downloads": 3.7,
-      "ratings": [
-        { "name": "1 star", "count": 10 },
-        { "name": "2 star", "count": 20 },
-        { "name": "3 star", "count": 90 },
-        { "name": "4 star", "count": 300 },
-        { "name": "5 star", "count": 530 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/d03H8ghR/Shoply.jpg",
-      "title": "Shoply",
-      "companyName": "EcomLab",
-      "id": 18,
-      "description": "Online shopping with fast delivery.",
-      "size": 72,
-      "reviews": 5100,
-      "ratingAvg": 4.6,
-      "downloads": 1.5,
-      "ratings": [
-        { "name": "1 star", "count": 200 },
-        { "name": "2 star", "count": 300 },
-        { "name": "3 star", "count": 500 },
-        { "name": "4 star", "count": 1200 },
-        { "name": "5 star", "count": 2900 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/ksrrRqyD/Pic-Gallery.jpg",
-      "title": "PicGallery",
-      "companyName": "PhotoPro",
-      "id": 19,
-      "description": "Gallery app with cloud sync.",
-      "size": 36,
-      "reviews": 1300,
-      "ratingAvg": 4.3,
-      "downloads": 5.2,
-      "ratings": [
-        { "name": "1 star", "count": 50 },
-        { "name": "2 star", "count": 90 },
-        { "name": "3 star", "count": 250 },
-        { "name": "4 star", "count": 420 },
-        { "name": "5 star", "count": 490 }
-      ]
-    },
-    {
-      "image": "https://i.ibb.co.com/q3s3mxrZ/Medi-Care.jpg",
-      "title": "MediCare",
-      "companyName": "HealthCorp",
-      "id": 20,
-      "description": "Online doctor consultation app.",
-      "size": 61,
-      "reviews": 2400,
-      "ratingAvg": 4.5,
-      "downloads": 7.8,
-      "ratings": [
-        { "name": "1 star", "count": 70 },
-        { "name": "2 star", "count": 90 },
-        { "name": "3 star", "count": 300 },
-        { "name": "4 star", "count": 900 },
-        { "name": "5 star", "count": 1040 }
-      ]
-    }
-  ]
-  
+  {
+    "image": "https://i.ibb.co.com/SDWRtSvZ/e632982bae5808525ce4e321a3ad6a5e.jpg",
+    "title": "Pixel Camera",
+    "companyName": "Vision Labs",
+    "id": 1,
+    "description": "Pixel Camera is an advanced AI-powered photography application designed to transform the way users capture, edit, and share images. Featuring a wide range of smart filters, AI enhancements, and portrait modes, Pixel Camera enables both amateur and professional photographers to produce stunning, high-quality photographs effortlessly. The app’s AI algorithms automatically adjust lighting, exposure, color balance, and sharpness to produce visually appealing results, while its manual controls allow complete creative freedom for those who prefer hands-on adjustments. Users can apply effects such as bokeh, HDR, night mode, panorama, and slow shutter to bring artistic flair to their photos. Pixel Camera also includes advanced editing tools like cropping, rotation, color grading, red-eye removal, and selective adjustments. With cloud storage integration, users can safely save and organize their photo collections, ensuring easy access across multiple devices. Social sharing features allow users to instantly post images to popular platforms, and the community feature lets photographers share their work, participate in challenges, and discover trending styles. Regular updates bring new filters, effects, and AI improvements to maintain state-of-the-art performance. Pixel Camera is ideal for those seeking to elevate their photography experience, offering a seamless combination of automation, creativity, and social engagement while fostering learning and exploration in the field of modern digital photography.",
+    "size": 48,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4wXS73LQ/demo-app-2.webp",
+    "title": "Galaxy Shooter",
+    "companyName": "StarPlay Studios",
+    "id": 2,
+    "description": "Galaxy Shooter is a dynamic arcade-style space combat game designed to immerse players in intense interstellar battles. Featuring stunning graphics, responsive controls, and a variety of spacecraft, Galaxy Shooter allows players to navigate through multiple galaxies, fight enemy fleets, and complete challenging missions. The game incorporates power-ups, upgrades, and special abilities that enhance gameplay strategy, enabling players to customize their ships to maximize performance and survival. Galaxy Shooter also includes leaderboard systems and achievements to encourage competition and replayability. With immersive sound effects, engaging storylines, and procedurally generated levels, the game offers endless excitement for arcade and action enthusiasts. Regular updates introduce new challenges, ship models, and gameplay enhancements, ensuring continuous engagement and keeping players on the edge of their seats.",
+    "size": 92,
+    "reviews": 870,
+    "ratingAvg": 4.1,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/n8mRM82B/beat-Box-Music.jpg",
+    "title": "BeatBox Music",
+    "companyName": "WaveSound LLC",
+    "id": 3,
+    "description": "BeatBox Music is a comprehensive music streaming platform designed to provide users with limitless access to high-quality audio tracks across various genres. The app allows users to create personalized playlists, follow favorite artists, and discover new music through curated recommendations powered by AI algorithms that analyze listening habits. BeatBox Music supports offline playback, ensuring uninterrupted entertainment on the go. With intuitive navigation, a built-in equalizer, and advanced search features, the app delivers a seamless music experience. Social integration enables sharing playlists and collaborating with friends, enhancing community interaction. Regular updates expand the music library, improve audio quality, and introduce interactive features such as lyrics display, live radio channels, and artist interviews. BeatBox Music caters to casual listeners and audiophiles alike, offering an engaging, flexible, and high-fidelity musical journey.",
+    "size": 65,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fBYdbWf/light-Reader.jpg",
+    "title": "LightReader",
+    "companyName": "SoftTech",
+    "id": 4,
+    "description": "LightReader is a versatile eBook reader designed for immersive reading experiences on mobile devices. Featuring customizable font sizes, themes, line spacing, and night mode, it caters to both casual readers and literary enthusiasts. The app supports multiple eBook formats, including EPUB, PDF, and MOBI, and offers cloud syncing for seamless reading across devices. Users can annotate, highlight, and bookmark text, while the recommendation engine suggests new books based on reading habits. LightReader promotes learning and engagement through community features, reading challenges, and discussion forums. Regular updates add new functionalities and performance improvements, making LightReader a comprehensive platform for modern digital reading.",
+    "size": 24,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rG58GnV3/forcast.jpg",
+    "title": "Sky Forecast",
+    "companyName": "Weather Pro",
+    "id": 5,
+    "description": "Sky Forecast is an advanced weather application that provides highly accurate, real-time meteorological information to help users plan their daily activities and stay prepared for any conditions. It offers detailed weather forecasts, including temperature, humidity, wind speed, precipitation probability, and UV index for multiple locations around the world. Interactive radar maps visualize storms, cloud coverage, and rainfall in real-time, while customizable notifications alert users about severe weather events. Sky Forecast also includes hourly, daily, and weekly predictions, historical weather data, and sunrise/sunset timings. Users can create personal profiles to save favorite locations, track weather patterns, and receive personalized recommendations. Its intuitive interface, combined with AI-powered insights, ensures both casual users and weather enthusiasts receive relevant, actionable information. Regular updates improve forecast accuracy, introduce new visualizations, and expand data sources, making Sky Forecast a comprehensive, reliable, and user-friendly app for anyone interested in monitoring and understanding weather patterns in detail.",
+    "size": 39,
+    "reviews": 1450,
+    "ratingAvg": 4.4,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 640 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZ7GJdjz/Fit-Track-PRO.jpg",
+    "title": "FitTrack Pro",
+    "companyName": "BodyBuild Inc.",
+    "id": 6,
+    "description": "FitTrack Pro is a comprehensive fitness and workout tracking application that helps users achieve their health and exercise goals efficiently. With features like personalized workout plans, activity tracking, nutrition logging, and progress monitoring, the app ensures users maintain a balanced and effective fitness routine. The app’s AI-powered suggestions adapt exercises based on performance and goals, while community features provide motivation through challenges, group workouts, and leaderboards. Integration with wearable devices allows accurate measurement of steps, heart rate, calories burned, and sleep quality. FitTrack Pro also provides educational content about fitness techniques, wellness tips, and healthy meal plans to support users holistically. Regular updates introduce new workouts, training programs, and interface improvements, making it an indispensable tool for fitness enthusiasts of all levels seeking structured guidance, personalized tracking, and ongoing motivation toward healthier living.",
+    "size": 58,
+    "reviews": 3900,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0pXQ1vny/VPN.jpg",
+    "title": "GuardVPN",
+    "companyName": "CyberSafe",
+    "id": 7,
+    "description": "GuardVPN is a secure and reliable virtual private network application that provides users with online privacy, data protection, and unrestricted internet access. By encrypting internet connections, GuardVPN safeguards sensitive information from hackers, trackers, and public Wi-Fi vulnerabilities. The app allows users to select from multiple server locations worldwide to access region-restricted content, enhance streaming experiences, and bypass censorship. GuardVPN offers high-speed connections, no-log policies, and automatic kill-switch features to maintain security even during network disruptions. The interface is user-friendly, enabling both novice and advanced users to quickly connect to secure networks. Regular updates improve encryption standards, expand server availability, and add performance optimizations. GuardVPN is ideal for anyone seeking to protect online identity, maintain privacy, and enjoy unrestricted access to digital resources in a safe and dependable manner.",
+    "size": 41,
+    "reviews": 800,
+    "ratingAvg": 4.2,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/s93NGnNS/snap-Edit.jpg",
+    "title": "SnapEdit",
+    "companyName": "EditPro",
+    "id": 8,
+    "description": "SnapEdit is an AI-powered photo editing application designed to simplify the process of creating stunning visuals for personal and professional use. With a wide range of filters, retouching tools, background removal, and color correction capabilities, SnapEdit allows users to transform ordinary images into professional-grade photographs quickly and efficiently. The app features automated suggestions powered by machine learning algorithms to enhance photo quality, adjust exposure, sharpen details, and balance colors intelligently. Users can manipulate layers, apply creative effects, add text, and export high-resolution images suitable for social media, marketing, or printing purposes. SnapEdit supports collaborative editing, cloud storage integration, and a robust gallery management system to organize work efficiently. Regular updates introduce new filters, AI improvements, and additional editing options. SnapEdit is perfect for photographers, content creators, marketers, and hobbyists seeking advanced yet accessible tools to elevate visual content effortlessly.",
+    "size": 76,
+    "reviews": 3500,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rpfd2kV2/Lingu-Ran.jpg",
+    "title": "LinguaLearn",
+    "companyName": "SkillWorld",
+    "id": 9,
+    "description": "LinguaLearn is an interactive language learning application that enables users to acquire new languages effectively through gamified lessons, audio-visual exercises, and immersive practice scenarios. The app adapts to individual learning styles, providing personalized exercises, vocabulary drills, speaking practice, and comprehension challenges. LinguaLearn supports multiple languages, ranging from widely spoken to regional dialects, and incorporates spaced repetition algorithms to enhance retention and recall. The app offers cultural insights, grammar tutorials, pronunciation guides, and real-life conversational simulations to prepare learners for practical use. Users can track their progress, earn rewards, participate in global competitions, and join community discussions to enhance engagement. Regular updates expand content, introduce advanced AI features for pronunciation feedback, and maintain compatibility with the latest devices, making LinguaLearn a comprehensive, engaging, and flexible solution for language acquisition enthusiasts of all levels.",
+    "size": 52,
+    "reviews": 920,
+    "ratingAvg": 4.3,
+    "downloads": 3.5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zhJj0Kfh/Quick-Notes.jpg",
+    "title": "QuickNotes",
+    "companyName": "ToolsPro",
+    "id": 10,
+    "description": "QuickNotes is a minimalist note-taking application designed to help users capture, organize, and manage ideas efficiently. With a clean, distraction-free interface, QuickNotes allows users to quickly jot down thoughts, create checklists, and organize notes by tags and folders. The app supports multimedia attachments such as images, voice recordings, and sketches, enhancing flexibility for diverse note-taking needs. Features like search functionality, cloud synchronization, and offline access ensure notes are always available and secure across multiple devices. QuickNotes also offers reminders, calendar integration, and collaborative sharing options to improve productivity and teamwork. Regular updates introduce new organizational tools, improved performance, and additional customization options, making QuickNotes an essential application for students, professionals, and anyone seeking a streamlined, efficient, and user-friendly digital note-taking experience.",
+    "size": 18,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 680 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gLQSG4zv/Maps.jpg",
+    "title": "EasyMaps",
+    "companyName": "GeoTech",
+    "id": 11,
+    "description": "EasyMaps is an offline map navigation application that provides users with accurate routing, location search, and turn-by-turn directions without requiring a continuous internet connection. The app includes detailed maps, satellite views, and points of interest such as restaurants, landmarks, and gas stations. Users can plan trips, mark favorite destinations, and download maps for multiple regions, making it ideal for travel and outdoor adventures. EasyMaps offers real-time GPS tracking, route optimization, and voice-guided navigation to ensure safety and efficiency during journeys. Integration with other services allows for traffic updates, weather alerts, and route sharing. Regular updates expand map coverage, improve navigation accuracy, and enhance the user interface, making EasyMaps a comprehensive, reliable, and user-friendly solution for both daily commuting and exploration.",
+    "size": 85,
+    "reviews": 2200,
+    "ratingAvg": 4.3,
+    "downloads": 5.4,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTP56T0x/Chit-Chat.jpg",
+    "title": "ChitChat",
+    "companyName": "SocialX",
+    "id": 12,
+    "description": "ChitChat is a secure, fast, and user-friendly messaging application designed to facilitate instant communication with friends, family, and colleagues. Featuring end-to-end encryption, ChitChat ensures that messages, voice calls, and multimedia content remain private and protected from unauthorized access. The app supports group chats, file sharing, stickers, and emojis to enhance interactions and make conversations engaging. Users can create custom profiles, set status messages, and manage contact lists easily. The app also provides message search, message pinning, and notification management for a streamlined experience. Regular updates enhance performance, introduce new interactive features, and maintain top-level security protocols, making ChitChat an ideal platform for secure and efficient communication in both personal and professional settings.",
+    "size": 45,
+    "reviews": 5400,
+    "ratingAvg": 4.7,
+    "downloads": 1.3,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2950 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DgpbFd9G/Smart-Wallet.jpg",
+    "title": "SmartWallet",
+    "companyName": "PayFlex",
+    "id": 13,
+    "description": "SmartWallet is a digital wallet and online payment platform designed to facilitate seamless financial transactions. Users can store multiple cards, transfer funds, pay bills, and manage budgets efficiently within a secure and intuitive interface. The app includes real-time transaction tracking, spending analytics, and personalized notifications for income and expenses. SmartWallet integrates with major banks, merchants, and payment services to provide convenience and reliability. Advanced encryption and authentication protocols ensure data protection and transaction security. Users can also access loyalty programs, cashback offers, and promotions directly through the app. Regular updates improve security, add new payment options, and enhance usability, making SmartWallet an indispensable tool for managing personal finances securely and conveniently.",
+    "size": 39,
+    "reviews": 2600,
+    "ratingAvg": 4.4,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1YctbgBq/Daily-News.jpg",
+    "title": "DailyNews",
+    "companyName": "NewsByte",
+    "id": 14,
+    "description": "DailyNews is a comprehensive news application that aggregates articles, videos, and reports from multiple trusted sources to keep users informed about global and local events. Featuring a customizable news feed, users can select preferred categories such as politics, sports, technology, entertainment, and health. DailyNews includes offline reading, push notifications for breaking news, and in-depth analysis of trending topics. Its intuitive interface and search functionality allow users to find information quickly and efficiently. The app also offers editorial content, expert opinions, and interactive media to enhance engagement. Regular updates ensure access to the latest stories, improve user experience, and incorporate new features such as personalized recommendations and AI-driven insights, making DailyNews an essential platform for staying informed in an ever-changing world.",
+    "size": 33,
+    "reviews": 1500,
+    "ratingAvg": 4.2,
+    "downloads": 6.7,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cSrwrZtG/Edu-Master.jpg",
+    "title": "EduMaster",
+    "companyName": "LearnPro",
+    "id": 15,
+    "description": "EduMaster is an all-in-one online education platform that provides comprehensive courses, tutorials, and interactive lessons to learners of all ages. With a vast library of subjects including technology, science, arts, languages, and business, EduMaster empowers users to gain knowledge, develop skills, and achieve personal or professional goals. The app offers video lectures, quizzes, assignments, progress tracking, and certifications upon course completion. AI-driven recommendations suggest content based on learning history, preferences, and skill level. Users can interact with instructors and peers through discussion forums and live sessions, fostering collaboration and community learning. Regular updates introduce new courses, refine learning tools, and improve app performance, making EduMaster an indispensable educational resource for anyone seeking continuous growth, skill development, and lifelong learning opportunities.",
+    "size": 50,
+    "reviews": 3400,
+    "ratingAvg": 4.6,
+    "downloads": 8.3,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2060 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vvQ6JRFy/Time-Planner.jpg",
+    "title": "TimePlanner",
+    "companyName": "PlanIt",
+    "id": 16,
+    "description": "TimePlanner is a smart scheduling and reminder application designed to optimize productivity and manage tasks effectively. The app allows users to create daily, weekly, and monthly plans, set reminders, and track goals with customizable notifications. TimePlanner integrates with calendars, task lists, and productivity tools to provide a centralized overview of commitments. Features include color-coded tasks, priority tagging, habit tracking, and progress analytics. AI-powered suggestions help optimize schedules and allocate time efficiently. Users can also collaborate with teams, share plans, and synchronize across multiple devices. Regular updates improve user experience, introduce new functionalities, and ensure compatibility with the latest platforms, making TimePlanner an essential tool for anyone seeking structured organization, time management, and enhanced productivity.",
+    "size": 27,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 4.1,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 970 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/2Yhqj8G2/Calculator.jpg",
+    "title": "ProCalculator",
+    "companyName": "CalcHub",
+    "id": 17,
+    "description": "ProCalculator is an advanced scientific calculator app that offers a wide range of mathematical functions including algebra, calculus, statistics, and trigonometry. Designed for students, engineers, and professionals, it features a user-friendly interface, customizable themes, and the ability to store previous calculations. The app also provides graph plotting, equation solving, unit conversions, and financial calculations. With offline accessibility, real-time updates, and precision computation, ProCalculator ensures accurate results for both simple and complex calculations. Regular updates introduce new functions, improve performance, and enhance user experience, making it a reliable, comprehensive, and indispensable tool for academic and professional use.",
+    "size": 15,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 3.7,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/d03H8ghR/Shoply.jpg",
+    "title": "Shoply",
+    "companyName": "EcomLab",
+    "id": 18,
+    "description": "Shoply is a fast and intuitive online shopping platform designed to enhance the digital shopping experience. The app provides access to a wide range of products across multiple categories including electronics, fashion, home essentials, and groceries. Shoply offers personalized recommendations, secure payment options, real-time order tracking, and seamless returns. Users can browse curated deals, participate in flash sales, and receive notifications for discounts and promotions. Integration with multiple delivery services ensures timely shipments, while advanced search and filter options make finding products effortless. Regular updates enhance user experience, introduce new features, and improve security, making Shoply a comprehensive, reliable, and user-friendly e-commerce application for daily shopping needs.",
+    "size": 72,
+    "reviews": 5100,
+    "ratingAvg": 4.6,
+    "downloads": 1.5,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ksrrRqyD/Pic-Gallery.jpg",
+    "title": "PicGallery",
+    "companyName": "PhotoPro",
+    "id": 19,
+    "description": "PicGallery is a cloud-integrated photo gallery application that allows users to securely store, organize, and access photos and videos across devices. With features like smart albums, tagging, facial recognition, and AI-based search, PicGallery makes media management simple and efficient. Users can edit images, create slideshows, and share content seamlessly with friends and family. The app ensures data privacy with secure cloud backup and encryption, while offline access enables viewing and editing without internet connectivity. Regular updates improve performance, add new creative tools, and enhance interface customization, making PicGallery a versatile, safe, and user-friendly platform for personal and professional photography needs.",
+    "size": 36,
+    "reviews": 1300,
+    "ratingAvg": 4.3,
+    "downloads": 5.2,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/q3s3mxrZ/Medi-Care.jpg",
+    "title": "MediCare",
+    "companyName": "HealthCorp",
+    "id": 20,
+    "description": "MediCare is a comprehensive health and telemedicine application that connects users with licensed doctors for online consultations, appointment scheduling, and medical advice. The app provides access to electronic prescriptions, health records, and medication reminders. MediCare also includes features like symptom checkers, wellness tracking, and educational resources to promote proactive health management. Users can securely share medical history with professionals, receive lab results, and manage chronic conditions through personalized care plans. Integration with health devices, real-time notifications, and data privacy measures ensure a reliable and safe experience. Regular updates introduce new healthcare services, enhance user interface, and maintain compatibility with medical standards, making MediCare an essential tool for modern healthcare and personal wellness.",
+    "size": 61,
+    "reviews": 2400,
+    "ratingAvg": 4.5,
+    "downloads": 7.8,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1040 }
+    ]
+  }
+]
