@@ -76,9 +76,12 @@ const Home = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
+
       <div className="text-center grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-1">
         {featuredData.map((data) => (
-          <HomeApps data={data}></HomeApps>
+          <Link to={`/appDetails/${data.id}`}>
+            <HomeApps data={data}></HomeApps>
+          </Link>
         ))}
       </div>
       <Link to="/apps">

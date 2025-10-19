@@ -5,6 +5,7 @@ import NavBar from "../Components/NavBar";
 import Root from "../Root/Root";
 import Apps from "../Components/Apps";
 import Installed from "../Pages/Installed";
+import AppDetails from "../Components/AppDeatils";
 
 export const router = createBrowserRouter([
   {
@@ -13,7 +14,7 @@ export const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        loader: ()=> fetch('/data.json'),
+        // loader: ()=> fetch('/data.json'),
         Component: Home,
       },
       {
@@ -24,6 +25,10 @@ export const router = createBrowserRouter([
         path: "/installed",
         Component: Installed,
       },
+      {
+        path: '/appDetails/:id',
+        Component: AppDetails,
+      }
     ],
   },
 ]);

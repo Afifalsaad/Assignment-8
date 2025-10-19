@@ -14,7 +14,7 @@ const HomeApps = ({ data }) => {
         <div className="flex justify-between px-3 mb-3">
           <div className="flex items-center gap-2 px-2 bg-[#f1f5e9] rounded-sm">
             <img className="w-[15px] h-[15px]" src={download} alt="" />
-            <p className="text-[#00d491]">{downloads}</p>
+            <p className="text-[#00d491]">{downloads}M</p>
           </div>
           <div className="flex items-center gap-2 px-1 bg-[#fff0e0] rounded-sm">
             <img className="w-[15px] h-[15px]" src={rating} alt="" />
