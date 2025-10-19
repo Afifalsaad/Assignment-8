@@ -8,13 +8,26 @@ import { Bar, BarChart, XAxis, YAxis } from "recharts";
 
 const AppDetails = () => {
   const { id } = useParams();
-  const { apps, loading, error } = useApps();
+  const { apps, loading } = useApps();
 
   if (loading) return <p>Loading...</p>;
   const filteredData = apps.find((app) => String(app.id) === id);
   const { image, title, companyName, description, ratings } = filteredData;
-  // console.log(filteredData)
-  console.log(ratings);
+
+  const handleInstall = () => {
+    const existingList = JSON.parse(localStorage.getItem("installed"));
+    let updatedList = [];
+    if (existingList) {
+      const isAlreadyExist = existingList.some(
+        (app) => app.id === filteredData.id
+      );
+      if(isAlreadyExist) return alert('Already Installed')
+      updatedList = [...existingList, filteredData];
+    } else {
+      updatedList.push(filteredData);
+    }
+    localStorage.setItem("installed", JSON.stringify(updatedList));
+  };
 
   return (
     <div className="bg-[#62738210]">
@@ -46,16 +59,23 @@ const AppDetails = () => {
                 <h1 className="text-3xl font-bold">8M</h1>
               </div>
             </div>
-            <button className="mt-4 md:mt-38 md:px-5 p-1 md:py-2 bg-[#00d491] rounded-md text-white font-semibold text-[12px] md:text-xl">
+            <button
+              onClick={handleInstall}
+              className="mt-4 md:mt-38 md:px-5 p-1 md:py-2 bg-[#00d491] rounded-md text-white font-semibold text-[12px] md:text-xl">
               Install Now (26 MB)
             </button>
           </div>
         </div>
       </div>
-      <BarChart className="mt-12 px-7" layout="vertical" width={1000} height={400} data={ratings}>
-      <XAxis type="number" dataKey="count" />
-      <YAxis type="category" dataKey='name' />
-        <Bar  dataKey='count' fill="#ff8812"></Bar>
+      <BarChart
+        className="mt-12 px-7"
+        layout="vertical"
+        width={1000}
+        height={400}
+        data={ratings}>
+        <XAxis type="number" dataKey="count" />
+        <YAxis type="category" dataKey="name" />
+        <Bar dataKey="count" fill="#ff8812"></Bar>
       </BarChart>
       <div className="p-7">
         <h1 className="text=2xl font-semibold">Description</h1>
