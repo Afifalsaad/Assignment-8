@@ -1,11 +1,80 @@
-import React from 'react';
+import React, { useEffect, useState } from "react";
+import download from "../assets/icon-downloads.png";
+import rating from "../assets/icon-ratings.png";
 
 const Installed = () => {
-    return (
-        <div>
-            <h1>Installed page</h1>
+  const [appList, setAppList] = useState([]);
+  const [sort, setSort] = useState("none");
+
+  useEffect(() => {
+    const savedApps = JSON.parse(localStorage.getItem("installed"));
+    if (savedApps) setAppList(savedApps);
+  }, []);
+
+  const handleSort = () => {
+    if (sort === "downloads-asc") {
+      return [...appList].sort((a, b) => a.downloads - b.downloads);
+    } else if (sort === "downloads-desc") {
+      return [...appList].sort((a, b) => b.downloads - a.downloads);
+    } else {
+      return appList;
+    }
+  };
+
+  return (
+    <div className="bg-[#62738210] py-8 ">
+      <div className="mx-auto max-w-[1200px]">
+        <div className="text-center">
+          <h1 className="text-4xl mb-2 font-bold">Your Installed apps</h1>
+          <p className="text-[#627382]">
+            Explore All Trending Apps on the Market developed by us
+          </p>
         </div>
-    );
+        <div className="my-4 font-semibold flex justify-between">
+          <h1 className="text-2xl">({appList.length}) Apps Found</h1>
+          <label className="border-1 px-6 py-1 rounded-md text-[#627382] text-xl">
+            <select
+              value={sort}
+              onChange={(e) => setSort(e.target.value)}
+              >
+              <option value="none">Sort By Download</option>
+              <option value="downloads-asc">Low to High</option>
+              <option value="downloads-desc">High to low</option>
+            </select>
+          </label>
+        </div>
+        {handleSort().map((p) => (
+          <div className="bg-white rounded-md my-6">
+            <div className="flex gap-6 p-4 items-center">
+              <div>
+                <img className="w-[80px] rounded-md" src={p.image} alt="" />
+              </div>
+              <div>
+                <h1 className="text-2xl font-semibold">{p.title}</h1>
+                <div className="flex gap-10 mt-4">
+                  <div className="flex gap-1 items-center">
+                    <img className="w-[20px] h-[20px]" src={download} alt="" />
+                    <p className="text-[#00d491] text-xl font-semibold">
+                      {p.downloads}M
+                    </p>
+                  </div>
+                  <div className="flex gap-1 items-center">
+                    <img className="w-[20px] h-[20px]" src={rating} alt="" />
+                    <p className="text-[#ff8812] text-xl font-semibold">{p.ratingAvg}</p>
+                  </div>
+                  <div>
+                    <p className="text-[#768491] text-xl font-semibold">
+                      {p.size}MB
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
 };
 
 export default Installed;

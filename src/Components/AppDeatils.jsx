@@ -18,7 +18,7 @@ const AppDetails = () => {
     const existingList = JSON.parse(localStorage.getItem("installed"));
     let updatedList = [];
     if (existingList) {
-      const isAlreadyExist = existingList.some(
+      const isAlreadyExist = existingList.find(
         (app) => app.id === filteredData.id
       );
       if(isAlreadyExist) return alert('Already Installed')
@@ -50,12 +50,12 @@ const AppDetails = () => {
               </div>
               <div className="hidden md:block">
                 <img className="w-[30px]" src={rating} alt="" />
-                <p className="my-2">Downloads</p>
+                <p className="my-2">Average Ratings</p>
                 <h1 className="text-3xl font-bold">8M</h1>
               </div>
               <div className="hidden md:block">
                 <img className="w-[30px]" src={review} alt="" />
-                <p className="my-2">Downloads</p>
+                <p className="my-2">Total review</p>
                 <h1 className="text-3xl font-bold">8M</h1>
               </div>
             </div>
