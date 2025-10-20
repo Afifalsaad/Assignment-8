@@ -11,7 +11,7 @@ const Apps = () => {
   const searchedApps = trim
     ? apps.filter((app) => app.title.toLowerCase().includes(trim))
     : apps;
-    console.log(searchedApps)
+
   return (
     <div className="bg-[#62738210]">
       <div className="py-12 text-center">
@@ -30,12 +30,12 @@ const Apps = () => {
           placeholder="Search app"
         />
       </div>
-      <div className="text-center grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-1">
-        {searchedApps.map((data) => (
+      <div className="text-center min-h-screen grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-1">
+        {searchedApps.length > 0 ? searchedApps.map((data) => (
           <Link to={`/appDetails/${data.id}`}>
             <HomeApps data={data}></HomeApps>
           </Link>
-        ))}
+        )): <p className="text-center col-span-4 text-3xl font-semibold">No App Found</p>}
       </div>
     </div>
   );
