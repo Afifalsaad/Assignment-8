@@ -59,7 +59,7 @@ const NavBar = () => {
           </div>
           <img className="w-[30px] ml-2" src={logo} alt="" />
           <NavLink className="font-semibold text-[#632ee3]" to="/">
-            HERO.IO
+            APPS.WORLD
           </NavLink>
         </div>
         <div className="navbar-center hidden lg:flex">
@@ -102,7 +102,7 @@ const NavBar = () => {
         <div className="navbar-end">
           <NavLink
             className="btn text-white bg-linear-to-r from-[#632ee3] to-[#9f62f2]"
-            to="https://github.com/Afifalsaad/Assignment-8">
+            to="https://github.com/">
             <FaGithub /> Contribute
           </NavLink>
         </div>
