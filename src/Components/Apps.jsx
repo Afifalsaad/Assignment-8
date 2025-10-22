@@ -42,10 +42,10 @@ const Apps = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="mx-auto max-w-[1200px] my-4 text-2xl font-semibold flex justify-between">
-        <h1>({searchedApps.length}) Apps Found</h1>
+      <div className="mx-auto max-w-[1200px] my-4 text-2xl font-semibold flex justify-between px-1">
+        <h1>({apps.length}) Apps Found</h1>
         <input
-          className="border-1 text-[18px] p-2"
+          className="border-1 text-[14px] md:text-[16px] p-2 md:p-2  rounded-md"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           type="search"

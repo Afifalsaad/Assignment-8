@@ -71,11 +71,11 @@ const AppDetails = () => {
   return (
     <div className="bg-[#62738210]">
       <div>
-        <div className="flex p-7 gap-6">
+        <div className="flex p-2 md:p-7 gap-6">
           <div>
             <img className="w-[500px] rounded-md" src={image} alt="" />
           </div>
-          <div className="w-full">
+          <div className="w-full flex flex-col justify-evenly">
             <h1 className="text-3xl font-bold mb-2">{title}</h1>
             <p className="border-b-1 border-[#d0d3d6] pb-6">
               Developed by :{" "}
@@ -113,8 +113,8 @@ const AppDetails = () => {
             <button
               onClick={handleInstall}
               disabled={isInstalled}
-              className="mt-4 md:mt-22 md:px-5 p-1 md:py-2 bg-[#00d491] rounded-md text-white font-semibold text-[12px] md:text-xl hover:cursor-pointer">
-              {isInstalled ? "Installed" : `Install Now ${size} MB`}
+              className="md:w-[220px] mt-4 md:mt-22 md:px-5 p-1 md:py-2 bg-[#00d491] rounded-md text-white font-semibold text-[12px] md:text-xl hover:cursor-pointer">
+              {isInstalled ? "Installed" : `Install Now (${size}) MB`}
             </button>
           </div>
         </div>
@@ -122,7 +122,7 @@ const AppDetails = () => {
       <div className="md:w-[1000px] h-[400px]">
         <ResponsiveContainer>
           <BarChart
-            className="mt-12 px-7"
+            className="mt-12 p-2 md:px-7"
             layout="vertical"
             width={800}
             height={300}
@@ -134,7 +134,7 @@ const AppDetails = () => {
         </ResponsiveContainer>
       </div>
 
-      <div className="p-7">
+      <div className="p-2 md:p-7">
         <h1 className="text=2xl font-semibold">Description</h1>
         <p className="text-md mt-2">{description}</p>
       </div>

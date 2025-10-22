@@ -77,3 +77,23 @@ Technologies = Vast library of subjects including technology, science, arts, lan
 Apps Name = TimePlanner
 Description = TimePlanner is a smart scheduling and reminder application designed to optimize productivity and manage tasks effectively.
 Technologies = Create daily, weekly, and monthly plans, set reminders, and track goals with customizable notifications.
+
+17 - 
+Apps Name = ProCalculator
+Description = ProCalculator is an advanced scientific calculator app that offers a wide range of mathematical functions including algebra, calculus, statistics, and trigonometry.
+Technologies = It features a user-friendly interface, customizable themes, and the ability to store previous calculations.
+
+18 - 
+Apps Name = Shoply
+Description = Shoply is a fast and intuitive online shopping platform designed to enhance the digital shopping experience.
+Technologies = The app provides access to a wide range of products across multiple categories including electronics, fashion, home essentials, and groceries.
+
+19 - 
+Apps Name = PicGallery
+Description = PicGallery is a cloud-integrated photo gallery application that allows users to securely store, organize, and access photos and videos across devices.
+Technologies = Smart albums, tagging, facial recognition, and AI-based search, PicGallery makes media management simple and efficient.
+
+20 - 
+Apps Name = MediCare
+Description = MediCare is a comprehensive health and telemedicine application that connects users with licensed doctors for online consultations, appointment scheduling, and medical advice.
+Technologies = The app provides access to electronic prescriptions, health records, and medication reminders.

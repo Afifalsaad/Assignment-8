@@ -45,7 +45,7 @@ const Home = () => {
       </div>
 
       {/* Hero Section */}
-      <div>
+      <div className="">
         <div className="mt-12">
           <div className="flex justify-center">
             <img className="w-[800px] " src={hero} alt="" />
@@ -55,7 +55,7 @@ const Home = () => {
           <h1 className="text-4xl font-bold text-white pt-3 md:pt-16 pb-4 md:pb-8">
             Trusted by Millions, Built for You
           </h1>
-          <div className="flex md:gap-18 md:w-[700px] mx-auto pb-3 md:pb-12 text-white">
+          <div className="flex md:gap-18 md:w-[700px] mx-auto pb-3 md:pb-12 text-white text-center">
             <div>
               <p className="text-sm">Total Downloads</p>
               <h1 className="font-bold text-3xl md:text-5xl my-1.5">29.6M</h1>
@@ -76,7 +76,7 @@ const Home = () => {
       </div>
 
       {/* Cards Section */}
-      <div className="my-12 text-center">
+      <div className="my-12 text-center p-3">
         <h1 className="text-[48px] font-bold text-[#182f45]">Trending Apps</h1>
         <p className="text-[#627382]">
           Explore All Trending Apps on the Market developed by us
@@ -86,7 +86,7 @@ const Home = () => {
       {loading ? (
         <Loader />
       ) : (
-        <div className="text-center grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-1">
+        <div className="text-center grid grid-cols-2 md:grid-cols-4 mx-auto max-w-[1200px] gap-3 md:gap-6 p-2 md:p-1">
           {featuredData.map((data) => (
             <Link to={`/appDetails/${data.id}`}>
               <HomeApps data={data}></HomeApps>

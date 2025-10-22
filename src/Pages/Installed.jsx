@@ -53,13 +53,13 @@ const Installed = () => {
             Explore All Trending Apps on the Market developed by us
           </p>
         </div>
-        <div className="my-4 font-semibold flex justify-between">
+        <div className="my-4 font-semibold flex justify-between p-2">
           <h1 className="text-2xl">({appList.length}) Apps Found</h1>
-          <label className="border-1 px-6 py-1 rounded-md text-[#627382] text-xl">
+          <label className="text-[14px] border-1 px-6 py-1 rounded-md text-[#627382] text-xl">
             <select value={sort} onChange={(e) => setSort(e.target.value)}>
-              <option value="none">Sort By Size</option>
-              <option value="downloads-asc">Low to High</option>
-              <option value="downloads-desc">High to low</option>
+              <option className="text-[10px]" value="none">Sort By Download</option>
+              <option className="text-[10px]" value="downloads-asc">Low to High</option>
+              <option className="text-[10px]" value="downloads-desc">High to low</option>
             </select>
           </label>
         </div>

@@ -5,7 +5,7 @@ import rating from "../assets/icon-ratings.png";
 const HomeApps = ({ data }) => {
   const { image, title, downloads, ratingAvg } = data;
   return (
-    <div className="">
+    <div className="p">
       <div className="card bg-base-100 shadow-sm">
         <img className="p-3 h-[200px] md:h-[280px]" src={image} alt="Shoes" />
         <div className="px-3">

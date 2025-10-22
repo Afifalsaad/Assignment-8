@@ -16,9 +16,8 @@ const ErrorPage = () => {
         </button>
       </Link>
 
-      {/* Optional subtle floating shapes */}
-      <div className="absolute top-10 left-10 w-24 h-24 bg-white opacity-10 rounded-full animate-bounce-slow"></div>
-      <div className="absolute bottom-20 right-20 w-32 h-32 bg-white opacity-10 rounded-full animate-bounce-slow"></div>
+      {/* <div className="absolute top-10 left-10 w-24 h-24 bg-white opacity-10 rounded-full animate-bounce-slow"></div>
+      <div className="absolute bottom-20 right-20 w-32 h-32 bg-white opacity-10 rounded-full animate-bounce-slow"></div> */}
     </div>
   );
 };
