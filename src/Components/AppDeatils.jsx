@@ -6,6 +6,7 @@ import { useParams } from "react-router";
 import useApps from "../Hooks/useApps";
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 import { ToastContainer, toast } from "react-toastify";
+import Loader from "./Loader";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -14,7 +15,6 @@ const AppDetails = () => {
 
   useEffect(() => {
     const currentApp = apps.find((app) => String(app.id) === id);
-    console.log(currentApp);
     if (!currentApp) return;
 
     const installedApps = JSON.parse(localStorage.getItem("installed")) || [];
@@ -25,7 +25,7 @@ const AppDetails = () => {
     setIsInstalled(alreadyInstalled);
   }, [apps, id]);
 
-  if (loading) return <p>Loading...</p>;
+  if (loading) return <Loader></Loader>
   const filteredData = apps.find((app) => String(app.id) === id);
 
   const {
